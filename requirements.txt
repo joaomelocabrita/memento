@@ -1,0 +1,7 @@
+pyaudio
+pvporcupine
+whisper
+llama-cpp-python
+torch
+soundfile
+piper-tts
